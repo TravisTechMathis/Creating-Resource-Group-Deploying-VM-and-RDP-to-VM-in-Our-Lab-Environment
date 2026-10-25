@@ -1,0 +1,1 @@
+# Creating-Resource-Group-Deploying-VM-and-RDP-to-VM-in-Our-Lab-Environment
